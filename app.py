@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 st.title("Data Science Tutor chatbot")
 
-f=open("C:/projects/Innomatics/Backend_sessions/conversational Ai/.keys.txt")
+f=open("D:/Innomatics/chatbot/.keys.txt")
 key=f.read()
 
 
