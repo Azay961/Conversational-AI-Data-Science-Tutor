@@ -6,7 +6,7 @@ This project is a chatbot designed to provide tutoring in data science fields us
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/data-science-tutor-chatbot.git
+    git clone https://github.com/Azay961/Conversational-AI-Data-Science-Tutor.git
     cd data-science-tutor-chatbot
     ```
 
@@ -16,7 +16,8 @@ This project is a chatbot designed to provide tutoring in data science fields us
     ```
 
 3. Obtain API key for Generative AI:
-   - Sign up at Generative AI website: [https://www.example.com](https://www.example.com)
+   - Create New project through this link : (https://console.cloud.google.com/home/dashboard)
+   - Create API key from here :(https://aistudio.google.com/app/apikey)
    - Get your API key and replace it in `.keys.txt`.
 
 ## Usage
