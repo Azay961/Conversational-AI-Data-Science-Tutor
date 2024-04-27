@@ -19,7 +19,7 @@ This project is a chatbot designed to provide tutoring in data science fields us
    - Create New project through this link : (https://console.cloud.google.com/home/dashboard)
    - Create API key from here : (https://aistudio.google.com/app/apikey)
    - Get your API key and replace it in `.keys.txt`.
-   - See demo here: ()
+   - See demo here: [Youtube](https://youtu.be/_zmme8pUE9k)
 
 ## Usage
 1. Run the application:
@@ -54,8 +54,8 @@ This project is a chatbot designed to provide tutoring in data science fields us
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Streamlit: [https://www.streamlit.io/](https://www.streamlit.io/)
-- Generative AI: [https://www.example.com](https://www.example.com)
+- [Streamlit](https://www.streamlit.io/)
+- [Generative AI](https://ai.google.dev/gemini-api/docs)
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:youremail@example.com).
+For any inquiries or feedback, please contact [Ajay Chaudhary](ajay023.chaudhary@gmail.com).
