@@ -16,9 +16,10 @@ This project is a chatbot designed to provide tutoring in data science fields us
     ```
 
 3. Obtain API key for Generative AI:
-   - Create New project through this link : [New Project] (https://console.cloud.google.com/home/dashboard)
-   - Create API key from here : [API KEY] (https://aistudio.google.com/app/apikey)
+   - Create New project through this link : (https://console.cloud.google.com/home/dashboard)
+   - Create API key from here : (https://aistudio.google.com/app/apikey)
    - Get your API key and replace it in `.keys.txt`.
+   - See demo here: ()
 
 ## Usage
 1. Run the application:
